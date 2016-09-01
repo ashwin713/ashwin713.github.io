@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: ashwin
 
 # Short bio or description (displayed in the header)
 description: Programmer From Somewhere On Earth
@@ -45,7 +45,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "https://ashwin713.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
