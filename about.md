@@ -4,52 +4,47 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+I hail from South India, specifically God's Own Country - *Kerala*. To me **making a difference** in a positive way is the way to go. I am an Open Source enthusiast and an ardent follower of *Ubuntu*.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+Coding for me is a passion, it ignites the mind. Coding is a very powerful tool, In the right hands it can change the world in a better way. 
+Peace out !
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* BTech degree from Calicut university
+* DJVT from NIIT
 
 ## Roles
 
-Founder, ABC Organisation
+Co-founder, hashinfinity(#infinity)
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
+* **Programming Languages** - `Python` / `C` / `C++` / `Java`
+* **Frameworks** - `Flask`     
+* **Development Tools** - `QlikSense` / `QlikSource` / `QlikView`
+
+## Field of Experience
+
+Business Intelligence and Data Visualization
     
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
+* [**Publishing an IEEE paper -  A Scalable Model for Efficient Information Diffusion in Large Real World Networks**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+  Waiting anxiously for our research paper to get published, it's been months of hardwork and toil.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**One of the teams selected for the inaugral Startupbox program**](#) 
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+    Startup Village, Kerala along with SV.CO had organised this program to incubate the upcoming startups from Kerala, we were privileged to be a part of this wonderful program.
 
 ***
 
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[ashwinjkm94@gmail.com](mailto:ashwinjkm94@gmail.com)
