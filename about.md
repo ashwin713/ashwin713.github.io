@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I hail from South India, specifically God's Own Country - *Kerala*. To me **making a difference**,  in a positive way is the way to go. I am an Open Source enthusiast and an ardent follower of *Ubuntu*.
+I hail from South India, specifically God's Own Country - *Kerala*. To me, **making a difference**  in a positive way is the way to go. I am an Open Source enthusiast and an ardent follower of *Ubuntu*.
 
-Coding for me is a passion, it ignites the mind. Coding is a very powerful tool, In the right hands it can change the world in a better way. 
+Coding for me is a passion, it ignites the mind. It is a very powerful tool, In the right hands it can change the world for better. 
 Peace out !
 
 ## Education
