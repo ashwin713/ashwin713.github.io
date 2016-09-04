@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I hail from South India, specifically God's Own Country - *Kerala*. To me, **making a difference**  in a positive way is the way to go. I am an Open Source enthusiast and an ardent follower of *Ubuntu*.
+I hail from one of the souther states of India, specifically God's Own Country - *Kerala*. To me, **making a difference**  in a positive way is the way to go. I am an Open Source enthusiast and an ardent follower of *Ubuntu*.
 
-Coding for me is a passion, it ignites the mind. It is a very powerful tool, In the right hands it can change the world for better. 
+Coding for me is a passion, it ignites the mind. I believe that in the right hands it can change the world for better. Let's code to make the world a better place.
+
 Peace out !
 
 ## Education
@@ -41,7 +42,7 @@ Business Intelligence and Data Visualization
 
     Startup Village, Kerala along with SV.CO had organised this program to incubate the upcoming startups from Kerala, we were privileged to be a part of this wonderful program.
 
-***
+
 
 
 
