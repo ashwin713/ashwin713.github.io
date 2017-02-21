@@ -20,13 +20,14 @@ Co-founder, hashinfinity(#infinity)
 
 ## Skills
 
-* **Programming Languages** - `Python` / `C` / `C++` / `Java`
+* **Programming Languages** -  `React` / `Angular` / `D3.js` / `Node.js` / `GraphQL` / `Relay` / `Python` / `C` / `C++` / `Java`
 * **Frameworks** - `Flask`     
 * **Development Tools** - `QlikSense` / `QlikSource` / `QlikView`
 
 ## Field of Experience
 
-Business Intelligence and Data Visualization
+* Full Stack Developer
+* Business Intelligence and Data Visualization
     
 ## Achievements
 
