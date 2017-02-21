@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+\usepackage{hyperref}
 
 I hail from one of the southern states of India, specifically God's Own Country - *Kerala*. To me, **making a difference**  in a positive way is the way to go. I am an Open Source enthusiast and an ardent follower of *Ubuntu*.
 
@@ -32,9 +33,10 @@ Business Intelligence and Data Visualization
 ## Achievements
 
 
-* [**Publishing an IEEE paper -  A Scalable Model for Efficient Information Diffusion in Large Real World Networks**](#) 
+* [**Published an IEEE paper -  A Scalable Model for Efficient Information Diffusion in Large Real World Networks**](#) 
    
-  Waiting anxiously for our research paper to get published, it's been months of hardwork and toil.
+  Our research paper got published on Feb 16th 2017, it's been months of hardwork and toil.
+  You can read about it here : \hyperref[ A Scalable Model for Efficient Information Diffusion in Large Real World Networks]{''http://ieeexplore.ieee.org/document/7854070/''}
 
 ***
 
